@@ -1,8 +1,11 @@
 # Jungle
 
 A online plant store built with Rails 6.1 for purposes of teaching Rails by example.
+
 This project was an inherited codebase in where I performed several bug fixes and added more features and testing.
+
 Integration testing with RSpec and End-to-End with Cypress.
+
 Template provided from Lighthouse Labs.
 
 ## Final Product
