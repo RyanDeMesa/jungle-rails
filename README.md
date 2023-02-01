@@ -6,8 +6,8 @@ Template provided from Lighthouse Labs
 
 ## Final Product
 
-![Homepage with soldout products](./app/assets/images/jungle-sold-out.gif)
-![Order completed](./app/assets/images/jungle-order.gif)
+![Homepage with soldout products](https://github.com/RyanDeMesa/jungle-rails/blob/master/app/assets/images/jungle-sold-out.gif)
+![Order completed](https://github.com/RyanDeMesa/jungle-rails/blob/master/app/assets/images/jungle-order.gif)
     
 ## Setup
 
